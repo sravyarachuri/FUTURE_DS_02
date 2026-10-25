@@ -223,19 +223,19 @@ Track churn rate, retention rate, and contract-level churn regularly to evaluate
 ```text
 FUTURE_DS_02/
 │
-├── Dashboard/
+├── dashboard/
 │   └── Customer_Churn_Analysis.pbix
 │
-├── Dataset/
+├── dataset/
 │   └── Cleaned_Telco_Customer_Churn.xlsx
 │
-├── Images/
+├── images/
 │   └── dashboard_image.png
 │
-├── Notebooks/
+├── notebooks/
 │   └── Customer_Churn_Analysis.ipynb
 │
-├── Reports/
+├── reports/
 │   └── Customer_Retention_Churn_Analysis_Report_Task2.pdf
 │
 └── README.md
